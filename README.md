@@ -21,6 +21,6 @@ A browser-based memory game inspired by the classic Simon Game, built using HTML
 
 3. CSS
 
-# Live Demo
+
 
 
